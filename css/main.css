@@ -1,0 +1,13 @@
+#box {
+  background: white;
+  padding: 50px;
+  margin: 10x;
+  border-style: solid;
+  border-color: gray;
+}
+
+.pic {
+  width: 500px;
+  left: 0;
+  position: relative;
+}
